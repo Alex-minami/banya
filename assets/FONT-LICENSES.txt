@@ -1,0 +1,11 @@
+Oswald Bold
+https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+
+https://scripts.sil.org/OFL
+
+Manrope Regular
+https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
+
+http://scripts.sil.org/OFL
